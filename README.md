@@ -7,7 +7,7 @@ This is a  simple Sudoku solver implemented in C. It solves 9x9 Sudoku puzzles u
 1. **Clone the repository**
 
 ```bash
-   git clone https://github.com/your_username/sudoku_solver.git
+   git clone https://github.com/jungleo2001/sodoku_hacker_c.git
    ```
 
 2. **Compile the code:**
